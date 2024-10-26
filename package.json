@@ -1,0 +1,14 @@
+{
+  "name": "web_dev_bootcamp_colt_stele",
+  "version": "1.0.0",
+  "description": "A Learning code by colt steele web developer bootcamp in udemy platform",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mongoose": "^8.7.3"
+  }
+}
